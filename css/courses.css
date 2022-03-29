@@ -1,0 +1,13 @@
+.container {
+  width: 1200px;
+  height: 320px;
+  margin: auto;
+  padding: var(--spacing-medium);
+  box-sizing: border-box;
+  display: block;
+  position: absolute;
+}
+.card {
+  margin-top: 0px;
+  margin-left: auto;
+}
