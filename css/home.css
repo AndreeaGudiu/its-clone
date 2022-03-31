@@ -17,5 +17,8 @@
   opacity: 1;
 }
 .filter-greyscale{
-  filer: greyscale(100%); /*transf elem in alb negru
+  filer: greyscale(100%); /*transf elem in alb negru*/
 }
+.div-selector{
+  color:red;
+
